@@ -1,0 +1,4 @@
+{
+    "secret": "my secret",
+    "MONGODB_URL":  "mongodb+srv://fitsum:12345@cluster0-7c72d.mongodb.net/onlineShopping?=true&w=majority"
+}
