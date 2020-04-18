@@ -1,4 +1,4 @@
-# e-shoping-app 
+# e-shopping-app 
 - name of the project - Avater
 - Heroku link: https://avater.herokuapp.com
 
