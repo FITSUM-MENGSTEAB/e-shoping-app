@@ -1,5 +1,5 @@
 # e-shopping-app 
-- name of the project - Avater
+- name of the project - Avater(e-shopping-app)
 - Heroku link: https://avater.herokuapp.com
 
 ## Tasks 
